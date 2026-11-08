@@ -1,13 +1,11 @@
-# AnsibleArtisan4711: Übersicht meiner Repositories
+# Hallo, ich bin AnsibleArtisan4711
 
-Private Übersicht über alle meine Lern- und Übungsrepositories, nach Themen geordnet. Stand: 8. November 2026, 22 Repositories.
+Hier sammle ich meine Lern- und Übungsrepositories rund um IT-Administration, Netzwerke, Cloud und Automatisierung. Alles auf Deutsch, nach Themen geordnet. Stand: 8. November 2026, 22 Repositories.
 
 Es gibt zwei Arten von Repositories:
 
 - **Übungsreihe:** eigene Übungen mit Anleitung, Musterlösung und Skripten.
-- **Lernskript:** Lehrplan-Skript als Markdown, ein Kapitel pro Modul, mit Übungsaufgaben und Lösungen am Kapitelende. Eigenständige Übungsreihen (Skripte, Tests, Lösungen) kommen bei diesen Repos später, Fach für Fach.
-
-Die Links führen zu `https://github.com/AnsibleArtisan4711/<Name>`.
+- **Lernskript:** Lehrplan-Skript als Markdown, ein Kapitel pro Modul, mit Übungsaufgaben und Lösungen am Kapitelende. Zu diesen Skripten kommen nach und nach eigene Übungsreihen.
 
 ## 1. Homelab und Betrieb
 
@@ -70,15 +68,3 @@ Die Links führen zu `https://github.com/AnsibleArtisan4711/<Name>`.
 | [git-versionskontrolle-uebungen](https://github.com/AnsibleArtisan4711/git-versionskontrolle-uebungen) | Lernskript | Git und Versionskontrolle, 12 Module |
 | [technische-dokumentation-uebungen](https://github.com/AnsibleArtisan4711/technische-dokumentation-uebungen) | Lernskript | Technische Dokumentation und Dokumentations-Governance, 17 Module |
 | [unternehmensgruendung-uebungen](https://github.com/AnsibleArtisan4711/unternehmensgruendung-uebungen) | Lernskript | Unternehmensgründung für Tech-Startups in der EU, 12 Module |
-
-## Offene Punkte
-
-Hier halte ich fest, was noch zu tun ist, damit die Übersicht ehrlich bleibt.
-
-- Sichtbarkeit (privat oder öffentlich) je Repository festlegen.
-- Zu den Lernskripten die Übungsreihen entscheiden (Umfang je Fach).
-- Bei jedem neuen Repository: Eintrag in der passenden Gruppe ergänzen, Zahl oben anpassen.
-
-## Pflege
-
-Neues Repository anlegen, dann in dieser Datei in die passende Gruppe eintragen (Name, Art, ein Satz Inhalt), die Gesamtzahl oben und das Datum anpassen, committen und pushen.
