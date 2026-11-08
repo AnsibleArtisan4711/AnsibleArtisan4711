@@ -1,11 +1,12 @@
 # Hallo, ich bin AnsibleArtisan4711
 
-Hier sammle ich meine Lern- und Übungsrepositories rund um IT-Administration, Netzwerke, Cloud und Automatisierung. Alles auf Deutsch, nach Themen geordnet. Stand: 8. November 2026, 22 Repositories.
+Hier sammle ich meine Lern- und Übungsrepositories rund um IT-Administration, Netzwerke, Cloud und Automatisierung. Alles auf Deutsch, nach Themen geordnet. Stand: 8. November 2026, 23 Repositories.
 
-Es gibt zwei Arten von Repositories:
+Es gibt drei Arten von Repositories:
 
 - **Übungsreihe:** eigene Übungen mit Anleitung, Musterlösung und Skripten.
 - **Lernskript:** Lehrplan-Skript als Markdown, ein Kapitel pro Modul, mit Übungsaufgaben und Lösungen am Kapitelende. Zu diesen Skripten kommen nach und nach eigene Übungsreihen.
+- **Werkzeug:** Hilfsmittel für meine eigene Arbeitsweise, zum Beispiel Prompts für die Lehrplan-Erstellung.
 
 ## 1. Homelab und Betrieb
 
@@ -68,3 +69,4 @@ Es gibt zwei Arten von Repositories:
 | [git-versionskontrolle-uebungen](https://github.com/AnsibleArtisan4711/git-versionskontrolle-uebungen) | Lernskript | Git und Versionskontrolle, 12 Module |
 | [technische-dokumentation-uebungen](https://github.com/AnsibleArtisan4711/technische-dokumentation-uebungen) | Lernskript | Technische Dokumentation und Dokumentations-Governance, 17 Module |
 | [unternehmensgruendung-uebungen](https://github.com/AnsibleArtisan4711/unternehmensgruendung-uebungen) | Lernskript | Unternehmensgründung für Tech-Startups in der EU, 12 Module |
+| [lehrplan-prompts](https://github.com/AnsibleArtisan4711/lehrplan-prompts) | Werkzeug | 52 fertige Prompts für den Lehrplan-Architekten (KI-gestützte Lehrplan-Erstellung) zu fehlenden Themen der Systemadministration |
