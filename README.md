@@ -64,7 +64,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 | Kurs | Art | Inhalt |
 |---|---|---|
-| [veeam-nas](https://github.com/AnsibleArtisan4711/storage-backup-uebungen/tree/main/veeam-nas) | Übungsreihe | Datensicherung mit Veeam auf ein NAS |
+| [veeam-nas](https://github.com/AnsibleArtisan4711/storage-backup-uebungen/tree/main/veeam-nas) | Übungsreihe | Datensicherung mit Veeam auf ein NAS, dazu Monitoring der Backup-Umgebung mit PRTG |
 
 ## 7. IT-Betrieb
 
