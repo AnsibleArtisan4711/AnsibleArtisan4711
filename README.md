@@ -12,7 +12,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 1. Netzwerkdienste
 
-[netzwerkdienste-uebungen](https://github.com/AnsibleArtisan4711/netzwerkdienste-uebungen): Windows- und Linux-Netzwerkdienste im Hyper-V-Labor.
+[Netzwerkdienste-Übungen](https://github.com/AnsibleArtisan4711/netzwerkdienste-uebungen): Windows- und Linux-Netzwerkdienste im Hyper-V-Labor.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -21,7 +21,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 2. Netzwerk und Firewall
 
-[netzwerk-und-firewall-uebungen](https://github.com/AnsibleArtisan4711/netzwerk-und-firewall-uebungen): Netzwerktechnik, WLAN und Gästenetz.
+[Netzwerk-und-Firewall-Übungen](https://github.com/AnsibleArtisan4711/netzwerk-und-firewall-uebungen): Netzwerktechnik, WLAN und Gästenetz.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -30,7 +30,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 3. Windows Server und Active Directory
 
-[windows-server-uebungen](https://github.com/AnsibleArtisan4711/windows-server-uebungen): Dateidienste, Active Directory und Gruppenrichtlinien.
+[Windows-Server-Übungen](https://github.com/AnsibleArtisan4711/windows-server-uebungen): Dateidienste, Active Directory und Gruppenrichtlinien.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -41,7 +41,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 4. Automatisierung
 
-[automatisierung-uebungen](https://github.com/AnsibleArtisan4711/automatisierung-uebungen): Shell, PowerShell, Python und Versionskontrolle.
+[Automatisierung-Übungen](https://github.com/AnsibleArtisan4711/automatisierung-uebungen): Shell, PowerShell, Python und Versionskontrolle.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -52,7 +52,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 5. Cloud und Identität
 
-[cloud-identitaet-uebungen](https://github.com/AnsibleArtisan4711/cloud-identitaet-uebungen): AWS und Microsoft 365.
+[Cloud-Identität-Übungen](https://github.com/AnsibleArtisan4711/cloud-identitaet-uebungen): AWS und Microsoft 365.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -61,7 +61,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 6. Storage und Backup
 
-[storage-backup-uebungen](https://github.com/AnsibleArtisan4711/storage-backup-uebungen): Datensicherung.
+[Storage-Backup-Übungen](https://github.com/AnsibleArtisan4711/storage-backup-uebungen): Datensicherung.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -69,7 +69,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 7. IT-Betrieb
 
-[it-betrieb-uebungen](https://github.com/AnsibleArtisan4711/it-betrieb-uebungen): Homelab, Betrieb, Dokumentation und Unternehmensgründung.
+[IT-Betrieb-Übungen](https://github.com/AnsibleArtisan4711/it-betrieb-uebungen): Homelab, Betrieb, Dokumentation und Unternehmensgründung.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -81,7 +81,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 8. Client und Hardware
 
-[client-hardware-uebungen](https://github.com/AnsibleArtisan4711/client-hardware-uebungen): Windows-11-Administration und IT-Grundlagen für Clients und Hardware.
+[Client-Hardware-Übungen](https://github.com/AnsibleArtisan4711/client-hardware-uebungen): Windows-11-Administration und IT-Grundlagen für Clients und Hardware.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -90,7 +90,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 9. Linux
 
-[linux-uebungen](https://github.com/AnsibleArtisan4711/linux-uebungen): Linux-Grundlagen.
+[Linux-Übungen](https://github.com/AnsibleArtisan4711/linux-uebungen): Linux-Grundlagen.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -98,7 +98,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 10. Microsoft Office
 
-[office-uebungen](https://github.com/AnsibleArtisan4711/office-uebungen): Excel und Office Specialist.
+[Office-Übungen](https://github.com/AnsibleArtisan4711/office-uebungen): Excel und Office Specialist.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -107,7 +107,7 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 ## 11. Web
 
-[web-uebungen](https://github.com/AnsibleArtisan4711/web-uebungen): Webdesign und Webserver.
+[Web-Übungen](https://github.com/AnsibleArtisan4711/web-uebungen): Webdesign und Webserver.
 
 | Kurs | Art | Inhalt |
 |---|---|---|
@@ -118,4 +118,4 @@ Jeder Kursordner hat seine eigene README. Die Lizenz steht im jeweiligen Kursord
 
 | Repository | Art | Inhalt |
 |---|---|---|
-| [lehrplan-prompts](https://github.com/AnsibleArtisan4711/lehrplan-prompts) | Werkzeug | 72 fertige Prompts für den Lehrplan-Architekten (KI-gestützte Lehrplan-Erstellung) zu fehlenden Themen der Systemadministration |
+| [Lehrplan-Prompts](https://github.com/AnsibleArtisan4711/lehrplan-prompts) | Werkzeug | 72 fertige Prompts für den Lehrplan-Architekten (KI-gestützte Lehrplan-Erstellung) zu fehlenden Themen der Systemadministration |
