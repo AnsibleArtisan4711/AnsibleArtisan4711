@@ -1,4 +1,4 @@
-# Hallo, ich bin AnsibleArtisan4711
+# Willkommen auf der Profil-Seite von AnsibleArtisan4711!
 
 Hier sammle ich meine Lern- und Übungsrepositories rund um IT-Administration, Netzwerke, Cloud und Automatisierung. Alles auf Deutsch, nach Themen geordnet: ein Repository je Themenbereich, darin ein Ordner je Kurs. Stand: 11. November 2026, 12 Repositories.
 
